@@ -1,0 +1,2 @@
+p, decay_rate, fitness, break_times
+0.55, 0.001, 0.95, [18 20 25 48 50 51]
